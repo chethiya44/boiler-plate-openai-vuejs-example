@@ -1,6 +1,6 @@
 # Open-Ai powered Vue js Applicaitons
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite and open-ai api powered application.
 
 ## Recommended IDE Setup
 
