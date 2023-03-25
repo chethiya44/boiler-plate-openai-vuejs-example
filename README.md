@@ -8,7 +8,9 @@ This template should help get you started developing with Vue 3 in Vite and open
 
 ## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+1.Please get the open-ai api key (https://platform.openai.com)
+
+2.Replace your api key in the Helloworld  component file in apiEndpoint
 
 ## Project Setup
 
