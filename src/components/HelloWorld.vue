@@ -5,7 +5,7 @@
       <div class="mb-3">
           <label for="exampleInputEmail1" class="form-label">Input Text</label>
           <textarea type="email" class="form-control" id="exampleInputEmail1" name="inputText"  v-model="userInputtext" aria-describedby="emailHelp"></textarea>
-          <label for="exampleInputEmail1" class="form-label">Select Number of word Reduction you want</label>
+          <label for="exampleInputEmail1" class="form-label">Select Final Number of word count you want to paragraph</label>
           <div class="btn-group" style="margin-top: 10px">
                   <select class="form-select" aria-label="Default select example" name="value" v-model="userinputValue">
                       <option value="5">5</option>
